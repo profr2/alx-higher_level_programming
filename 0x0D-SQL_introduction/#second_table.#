@@ -1,0 +1,2 @@
+SELECT AVG(`score`) AS `average`
+FROM `second_table`;0;136;0cq
